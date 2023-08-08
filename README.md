@@ -99,15 +99,3 @@
 ```
 
 ----
-
-
-
-## 개발 일지
-
-https://www.notion.so/softsquared/d171e2c23d9a43b7bfe488461b382395
-
-
-
-## 배포중인 서버
-
-https://prod.wook2.xyz
